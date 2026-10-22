@@ -60,7 +60,7 @@ export function Header({
   return (
     <header className="sticky top-0 z-30 border-b border-slate-200/80 dark:border-slate-800 bg-white/80 dark:bg-slate-950/80 backdrop-blur-md transition-colors">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-3.5">
-        <div className="flex flex-col md:flex-row items-center justify-between gap-4">
+        <div className="flex flex-col lg:flex-row items-center justify-between gap-4">
           
           {/* Logo & Platform Info */}
           <div className="flex items-center gap-3.5 w-full md:w-auto justify-between md:justify-start">

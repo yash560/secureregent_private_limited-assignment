@@ -321,8 +321,8 @@ export default function DashboardPage() {
               All 5 Evaluation Requirements Verified
             </span>
             <span>•</span>
-            <span className="font-mono text-[11px]">
-              Engineered by <strong>Yash Jain</strong>
+            <span className="inline-flex items-center gap-1 font-bold text-blue-600 dark:text-blue-400 bg-blue-500/10 px-2.5 py-1 rounded-md border border-blue-500/20 text-xs">
+              Powered by TheWebVale
             </span>
           </div>
         </div>
